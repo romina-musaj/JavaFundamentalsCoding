@@ -1,4 +1,4 @@
-package com.academy.sda.app8.app11;
+package com.academy.sda.app11;
 
 import java.util.Scanner;
 
