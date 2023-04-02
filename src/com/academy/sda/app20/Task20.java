@@ -7,12 +7,10 @@ public class Task20 {
     public static void main(String[] args) {
         Random randon = new Random();
         int numerRastesor = randon.nextInt(101);
-        System.out.println("Numer rastesor " + numerRastesor);
         Scanner scanner = new Scanner(System.in);
         int input;
-
         do{
-            System.out.println("Vendos nje numer: ");
+            System.out.println("Vendos nje numer cfaredo: ");
             input = scanner.nextInt();
 
             if(input > numerRastesor){
